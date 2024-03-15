@@ -27,4 +27,4 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE), então sinta-se livre 
 Então, o que você está esperando? Vamos começar a construir algo incrível juntos! 🚀
 
 ---
-[Wesley] - Equipe de Desenvolvimento
+[Wesley Rodrigues] - Desenvolvedor
